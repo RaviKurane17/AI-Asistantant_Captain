@@ -1,4 +1,4 @@
-# jarvis-ai-assistant
+# Captain-ai-assistant
 
 # 🤖 AI Project
 
