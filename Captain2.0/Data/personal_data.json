@@ -1,0 +1,27 @@
+{
+    "user_info": {
+        "name": "Ravi",
+        "age": "",
+        "birthday": "",
+        "location": "",
+        "occupation": "",
+        "education": "",
+        "hobbies": [],
+        "favorites": {
+            "color": "",
+            "food": "",
+            "movie": "",
+            "music": "",
+            "book": ""
+        },
+        "contacts": {
+            "phone": "",
+            "email": ""
+        }
+    },
+    "preferences": {
+        "assistant_name": "Captain",
+        "voice_preference": "male",
+        "response_style": "concise"
+    }
+}
